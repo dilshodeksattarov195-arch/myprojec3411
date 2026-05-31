@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicevncrypt",
+        "uuid": 33137865,
+        "checksum": "s1dfgt"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
